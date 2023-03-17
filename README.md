@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi  <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40" />, I'm Youssef Bounit</h1>
 <h3 align="center">Full-Stack-Web-Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <a href="https://twitter.com/youyoussef768" target="blank"><img src="https://img.shields.io/twitter/follow/youyoussef768?logo=twitter&style=for-the-badge" alt="youyoussef768" /></a> </p>
 
