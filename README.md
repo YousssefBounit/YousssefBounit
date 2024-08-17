@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="center">Hi  <img src="https://i.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.webp" width="40" />, I'm Youssef Bounit</h1>
 <h3 align="center">Full-Stack-Web-Developer</h3>
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
